@@ -9,12 +9,12 @@ background-color: black
 .mainPage {
     text-align:center;
     color: white;
-    padding-top: 25px;
+    padding-top: 10px;
 }
 
 h1{
    font-size: 2em;
-padding-bottom: 20px;
+padding-bottom: 10px;
 }
 
 .headerBackground{
