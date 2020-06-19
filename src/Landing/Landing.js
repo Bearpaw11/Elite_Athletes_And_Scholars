@@ -1,10 +1,10 @@
 import React from "react"
-import Student from "../images/student.jpg"
+import LandingBr from "../images/landingBR.jpeg"
 
 const landing = () => {
     const style = {
         marginTop: "-20px",
-        backgroundImage: `url(${Student})`,
+        backgroundImage: `url(${LandingBr})`,
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
         backgroundColor: 'black',
@@ -14,7 +14,7 @@ const landing = () => {
     }
      const style1 = {
          color: 'white',
-         paddingTop: '50px',
+         paddingTop: '30%',
          textAlign: "center",
          fontSize: '3em'
     }
