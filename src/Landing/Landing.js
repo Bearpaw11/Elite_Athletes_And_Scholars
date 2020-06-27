@@ -13,21 +13,24 @@ const landing = () => {
         height: '100vh'
     }
      const style1 = {
+         fontFamily: 'Open Sans',
          color: 'white',
          paddingTop: '30%',
          textAlign: "center",
          fontSize: '3em'
     }
 
-     const buttonStyle = {
-        margin: '0 auto',
-        display: 'block',
-        fontSize: '1.5em',
-        borderRadius: '10px'
-     }
+    const style2= {
+        fontFamily: 'Open Sans',
+        color: 'white',
+        textAlign: "center",
+        fontSize: '2em'
+    }
+    
     return (
         <div style ={style}>
             <h1 style ={style1}>Welcome to Elite Athletes and Scholars</h1>
+            <h3 style ={style2}>Coming Soon</h3>
         </div>
     )
 }
