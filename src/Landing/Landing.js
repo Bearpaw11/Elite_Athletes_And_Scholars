@@ -27,8 +27,7 @@ const landing = () => {
      }
     return (
         <div style ={style}>
-            <h1 style ={style1}>Welcome to Elite Athletes and Scholors</h1>
-            <button style={buttonStyle}>Click to Enter</button>
+            <h1 style ={style1}>Welcome to Elite Athletes and Scholars</h1>
         </div>
     )
 }
