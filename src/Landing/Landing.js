@@ -3,7 +3,7 @@ import LandingBr from "../images/landingBR.jpeg"
 
 const landing = () => {
     const style = {
-        marginTop: "-20px",
+        marginTop: "-32px",
         backgroundImage: `url(${LandingBr})`,
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
