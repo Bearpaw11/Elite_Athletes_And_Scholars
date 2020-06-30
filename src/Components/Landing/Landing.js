@@ -1,5 +1,5 @@
 import React from "react"
-import LandingBr from "../images/landingBR.jpeg"
+import LandingBr from "../../images/landingBR.jpeg"
 
 const landing = () => {
     const style = {
