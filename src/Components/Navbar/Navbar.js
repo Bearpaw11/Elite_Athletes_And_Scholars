@@ -12,9 +12,9 @@ function Navmenu() {
   <Nav className="ml-auto navbar">
     <Nav.Link href="/">Home</Nav.Link>
     <Nav.Link href="/About">About</Nav.Link>
-    <Nav.Link href="/About">Resources</Nav.Link>
-    <Nav.Link href="/About">Pricing</Nav.Link>
-    <Nav.Link href="/contact">Contact</Nav.Link>
+    <Nav.Link href="/Resources">Resources</Nav.Link>
+    <Nav.Link href="/Pricing">Pricing</Nav.Link>
+    <Nav.Link href="/Contact">Contact</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
