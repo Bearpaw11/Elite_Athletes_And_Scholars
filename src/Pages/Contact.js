@@ -1,8 +1,8 @@
 import React from 'react'
-
+import classes from './Contact.module.css'
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div className={classes.Contact}>Contact page coming soon!</div>
   )
 }
 

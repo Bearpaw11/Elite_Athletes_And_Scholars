@@ -1,8 +1,9 @@
 import React from 'react'
+import classes from './Resources.module.css'
 
 const Resources = () => {
   return (
-    <div>Resources</div>
+    <div className={classes.Resources}>Resources page coming soon!</div>
   )
 }
 

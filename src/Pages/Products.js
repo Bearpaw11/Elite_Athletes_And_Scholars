@@ -1,8 +1,9 @@
 import React from 'react'
+import classes from './Products.module.css'
 
 const Products = () => {
   return (
-    <div>Products</div>
+    <div className={classes.Products}>Products page coming soon!</div>
   )
 }
 
