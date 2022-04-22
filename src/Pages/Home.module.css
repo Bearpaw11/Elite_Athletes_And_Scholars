@@ -11,8 +11,16 @@
 h1{
   margin: 0px;
 }
+
 .welcome{
   font-size: 3rem;
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+}
+
+.construction {
+  font-size: 2rem;
   padding-top: 50px;
   text-align: center;
   color: white;
