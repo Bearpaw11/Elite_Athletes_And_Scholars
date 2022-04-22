@@ -1,5 +1,5 @@
 .background {
-  border-top: solid 2px white;
+  /* border-top: solid 2px white; */
   background-image: url('./../Images//landingBR.jpeg');
   background-size: cover;
   background-position: center;
@@ -8,6 +8,9 @@
   
 }
 
+h1{
+  margin: 0px;
+}
 .welcome{
   font-size: 3rem;
   padding-top: 50px;
